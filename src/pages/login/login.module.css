@@ -1,0 +1,16 @@
+.login_input {
+    width: 250px;
+    
+  }
+  
+  .login_banner {
+    border-radius: 0.2rem;
+    margin-top: 20px;
+  }
+  
+  .login_container {
+    background-color: #70b0ed;
+    padding: 6.7rem 0;
+    border-radius: 2rem;
+    
+  }
